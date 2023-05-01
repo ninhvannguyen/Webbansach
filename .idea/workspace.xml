@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce8ea412-8b15-4366-b760-369eed15d245" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/baitap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/baitap1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/baitap2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/baitap2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/demostring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/demostring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="ce8ea412-8b15-4366-b760-369eed15d245" name="Changes" comment="demostring" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,8 +135,16 @@
       <workItem from="1682931940386" duration="1117000" />
       <workItem from="1682933416647" duration="232000" />
       <workItem from="1682933661284" duration="579000" />
-      <workItem from="1682934256570" duration="968000" />
+      <workItem from="1682934256570" duration="1199000" />
     </task>
+    <task id="LOCAL-00001" summary="demostring">
+      <created>1682936534718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682936534718</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,5 +160,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="demostring" />
+    <option name="LAST_COMMIT_MESSAGE" value="demostring" />
   </component>
 </project>
