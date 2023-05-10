@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce8ea412-8b15-4366-b760-369eed15d245" name="Changes" comment="demostring" />
+    <list default="true" id="ce8ea412-8b15-4366-b760-369eed15d245" name="Changes" comment="demostring">
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/BT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/BT1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/BT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/demostringbuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/demotokenizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/demostring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/demostring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/index.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,20 +39,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
-  <component name="RunManager" selected="Application.baitap2">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.niit.java23.Main" />
+}]]></component>
+  <component name="RunManager" selected="Application.BT4">
+    <configuration name="BT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.java23.BT" />
       <module name="Webbansach" />
       <extension name="coverage">
         <pattern>
@@ -54,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="baitap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.niit.java23.baitap1" />
+    <configuration name="BT1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.java23.BT1" />
       <module name="Webbansach" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="baitap2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.niit.java23.baitap2" />
+    <configuration name="BT2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.java23.BT2" />
       <module name="Webbansach" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +91,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demostring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.niit.java23.demostring" />
+    <configuration name="BT4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.java23.BT4" />
+      <module name="Webbansach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niit.java23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demotokenizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.java23.demotokenizer" />
       <module name="Webbansach" />
       <extension name="coverage">
         <pattern>
@@ -95,10 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.baitap2" />
-        <item itemvalue="Application.demostring" />
-        <item itemvalue="Application.baitap1" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BT4" />
+        <item itemvalue="Application.BT2" />
+        <item itemvalue="Application.BT1" />
+        <item itemvalue="Application.BT" />
+        <item itemvalue="Application.demotokenizer" />
       </list>
     </recent_temporary>
   </component>
@@ -136,6 +161,10 @@
       <workItem from="1682933416647" duration="232000" />
       <workItem from="1682933661284" duration="579000" />
       <workItem from="1682934256570" duration="1199000" />
+      <workItem from="1683458853234" duration="601000" />
+      <workItem from="1683629448264" duration="604000" />
+      <workItem from="1683649061020" duration="317000" />
+      <workItem from="1683718693527" duration="4903000" />
     </task>
     <task id="LOCAL-00001" summary="demostring">
       <created>1682936534718</created>

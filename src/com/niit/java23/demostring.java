@@ -12,5 +12,15 @@ public class demostring {
         System.out.println(s3.equals(s4));
         System.out.println(s3.length());
         System.out.println(s3.charAt(0));
+        String s5 =new String("Hello motor");
+        char[] dest=new char[6];
+        s5.getChars(0,5,dest,0);
+        for (int i = 0; i < dest.length; i++) {
+            System.out.println(dest[i]);
+
+        }
+        String s6=new String("helllo world");
+        System.out.println(s6.compareTo("hello sdhjhafefh"));
+
     }
 }
