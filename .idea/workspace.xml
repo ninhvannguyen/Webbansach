@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce8ea412-8b15-4366-b760-369eed15d245" name="Changes" comment="demostring">
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/BT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/BT1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/BT2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/demostringbuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/demotokenizer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/demostring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/demostring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +40,7 @@
     "WebServerToolWindowFactoryState": "false",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RunManager" selected="Application.BT4">
@@ -164,7 +156,7 @@
       <workItem from="1683458853234" duration="601000" />
       <workItem from="1683629448264" duration="604000" />
       <workItem from="1683649061020" duration="317000" />
-      <workItem from="1683718693527" duration="4903000" />
+      <workItem from="1683718693527" duration="11106000" />
     </task>
     <task id="LOCAL-00001" summary="demostring">
       <created>1682936534718</created>
