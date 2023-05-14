@@ -1,18 +1,25 @@
 package com.niit.java23;
 
+import com.niit.java23.abstraction.House;
+import com.niit.java23.abstraction.TropicalHouse;
+import com.niit.java23.abstraction.Villa;
 import com.niit.java23.domain.Human;
 
 public class Main {
     public static void main(String[] args) {
-        Human luan=new Human();
-        luan.walk();
-        luan.eat();
-        luan.learn();
-        Human nam=new Human();
-        nam.walk();
-        nam.eat();
-        nam.learn();
-        Human.className="Human";
-        Human.princlassName();
+        Human human=new Human();
+        human.setWeight("70");
+        human.setHeight("1.72");
+        getHouse(new TropicalHouse());
+        House house=new House() {
+            @Override
+            public void printHouse() {
+                System.out.println("print red");
+            }
+        };
+
+    }
+    public static void getHouse(House villa){
+        villa.printHouse();
     }
 }

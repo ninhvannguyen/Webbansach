@@ -6,7 +6,7 @@ public class Demo {
         num++;
     }
     public  void inputRef(Human human){
-        human.name="Jack";
+        human.setName("Jack");
     }
 
     public static void main(String[] args) {
@@ -15,8 +15,8 @@ public class Demo {
         demo.inputValue(num);
         System.out.println(num);//10
         Human human=new Human();
-        human.name="Tom";
+        human.setName("Tom");
         demo.inputRef(human);
-        System.out.println(human.name);//Jack
+        System.out.println(human.getName());//Jack
     }
 }
