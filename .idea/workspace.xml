@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce8ea412-8b15-4366-b760-369eed15d245" name="Changes" comment="demostring">
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/abstraction/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/abstraction/TropicalHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/abstraction/Villa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/dals/sub_dals/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/dals/sub_dals/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/domain/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/domain/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/inheritance/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/inheritance/Laptop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/domain/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/domain/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/domain/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/domain/Human.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +165,8 @@
       <workItem from="1683969338720" duration="4810000" />
       <workItem from="1683992674694" duration="3166000" />
       <workItem from="1684042192646" duration="1419000" />
-      <workItem from="1684063260056" duration="1525000" />
+      <workItem from="1684063260056" duration="2254000" />
+      <workItem from="1684065547163" duration="1175000" />
     </task>
     <task id="LOCAL-00001" summary="demostring">
       <created>1682936534718</created>
