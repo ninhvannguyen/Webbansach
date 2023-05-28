@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce8ea412-8b15-4366-b760-369eed15d245" name="Changes" comment="demostring">
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/JDBCDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Webbansach.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Webbansach.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/domain/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/domain/Human.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +168,7 @@
       <workItem from="1685260870822" duration="5396000" />
       <workItem from="1685267469035" duration="107000" />
       <workItem from="1685267672877" duration="460000" />
-      <workItem from="1685268407966" duration="2716000" />
+      <workItem from="1685268407966" duration="3711000" />
     </task>
     <task id="LOCAL-00001" summary="demostring">
       <created>1682936534718</created>
