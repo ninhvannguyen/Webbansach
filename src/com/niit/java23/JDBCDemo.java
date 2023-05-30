@@ -11,11 +11,12 @@ public class JDBCDemo {
 
 
             //thuc thi cau lenh sql
+/*            Statement stm = conn.createStatement();
             // thuc thi cau lenh insert
-            Statement stm = conn.createStatement();
             stm.executeUpdate("INSERT INTO users(email,pwd,salary) values ('mn@gmail.com','1234',1000)");
-            //cap nhat du lieu
+            //lay du lieu tu bang
             ResultSet rs = stm.executeQuery("SELECT * from users ");
+            //show data
             while (rs.next()) {
                 String email = rs.getString("email");
                 Double salary = rs.getDouble("salary");
@@ -23,7 +24,44 @@ public class JDBCDemo {
                 System.out.println(salary);
 
             } ;
-            //lay du lieu
+            */
+
+
+            /**Statement stm=conn.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE, ResultSet.CONCUR_UPDATABLE);
+            ResultSet rs= stm.executeQuery("SELECT * from users");
+            //rs.relative(3);
+           /* rs.absolute(1);
+            rs.updateString("email","bumblebee@gmail.com");
+            rs.updateRow();*/
+            //chen them ban ghi vao
+            //rs.moveToInsertRow();
+            //rs.updateString("email","b@gmail.com");
+            //rs.updateInt("pwd",234);
+            //rs.updateFloat("salary", 1000);
+            //rs.insertRow();
+            /*do {
+                String email = rs.getString("email");
+                Double salary = rs.getDouble("salary");
+                System.out.println(email);
+                System.out.println(salary);
+
+            }while (rs.next()) ;*/
+//            rs.absolute(1);
+//            rs.deleteRow();
+            Statement stm = conn.createStatement();
+            String mail="phobo@gmail.com";
+            Integer pwd= 123456;
+            float salary = 2000;
+            //stm.executeUpdate("INSERT INTO users(email,pwd,salary) values ('mn@gmail.com','1234',1000)");
+            PreparedStatement pstm= conn.prepareStatement("insert into users(email,pwd,salary) values (?,?,?)");
+            pstm.setString(1,mail);
+            pstm.setInt(2,pwd);
+            pstm.setFloat(3,salary);
+            pstm.execute();
+            pstm.setString(1,"bun@gmail.com");
+            pstm.setInt(2,212121212);
+            pstm.setFloat(3,65656565);
+            pstm.execute();
         } catch (Exception e) {
             e.printStackTrace();
         }
