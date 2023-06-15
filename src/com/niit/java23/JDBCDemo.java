@@ -5,9 +5,9 @@ import java.sql.*;
 public class JDBCDemo {
     public static void main(String[] args) {
         try {
-            Class.forName("org.postgresql.Driver");//load driver
+            Class.forName("com.mysql.cj.jdbc.Driver").newInstance();//load driver
             //ket noi den postgresql server
-            Connection conn = DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres?user=postgres&password=0967269587");
+            Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/javaweb_23","root","0967269587");
 
 
             //thuc thi cau lenh sql
@@ -48,7 +48,7 @@ public class JDBCDemo {
             }while (rs.next()) ;*/
 //            rs.absolute(1);
 //            rs.deleteRow();
-            Statement stm = conn.createStatement();
+            /*Statement stm = conn.createStatement();
             String mail="phobo@gmail.com";
             Integer pwd= 123456;
             float salary = 2000;
@@ -61,7 +61,17 @@ public class JDBCDemo {
             pstm.setString(1,"bun@gmail.com");
             pstm.setInt(2,212121212);
             pstm.setFloat(3,65656565);
-            pstm.execute();
+            pstm.execute();*/
+            CallableStatement callableStatement=conn.prepareCall("call getuser");
+            ResultSet rs =callableStatement.executeQuery();
+            while (rs.next()){
+
+                String email= rs.getString("email");
+                float salary=rs.getFloat("salary");
+                System.out.println(email);
+                System.out.println(salary);
+            }
+
         } catch (Exception e) {
             e.printStackTrace();
         }
