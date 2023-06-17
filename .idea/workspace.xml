@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ce8ea412-8b15-4366-b760-369eed15d245" name="Changes" comment="demostring">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Webbansach.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Webbansach.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/JDBCDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/JDBCDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +185,11 @@
       <workItem from="1686662025039" duration="946000" />
       <workItem from="1686663005806" duration="1038000" />
       <workItem from="1686828231279" duration="1434000" />
-      <workItem from="1686829948454" duration="369000" />
+      <workItem from="1686829948454" duration="1221000" />
+      <workItem from="1686997006799" duration="919000" />
+      <workItem from="1686997956433" duration="838000" />
+      <workItem from="1686998812356" duration="99000" />
+      <workItem from="1686998921883" duration="744000" />
     </task>
     <task id="LOCAL-00001" summary="demostring">
       <created>1682936534718</created>
@@ -210,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685292701652</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="demostring">
+      <created>1686830365977</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686830365977</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
