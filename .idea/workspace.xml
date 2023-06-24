@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce8ea412-8b15-4366-b760-369eed15d245" name="Changes" comment="demostring" />
+    <list default="true" id="ce8ea412-8b15-4366-b760-369eed15d245" name="Changes" comment="update session-4">
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/bt/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BT4">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.niit.java23.BT" />
       <module name="Webbansach" />
@@ -94,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demotokenizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.niit.java23.demotokenizer" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.java23.Main" />
       <module name="Webbansach" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.BT4" />
         <item itemvalue="Application.BT2" />
         <item itemvalue="Application.BT1" />
         <item itemvalue="Application.BT" />
-        <item itemvalue="Application.demotokenizer" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +159,10 @@
       <workItem from="1683629448264" duration="604000" />
       <workItem from="1683649061020" duration="317000" />
       <workItem from="1683718693527" duration="11106000" />
+      <workItem from="1687350414435" duration="603000" />
+      <workItem from="1687609462701" duration="13000" />
+      <workItem from="1687611181505" duration="36000" />
+      <workItem from="1687611228708" duration="1297000" />
     </task>
     <task id="LOCAL-00001" summary="demostring">
       <created>1682936534718</created>
@@ -182,6 +190,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="demostring" />
-    <option name="LAST_COMMIT_MESSAGE" value="demostring" />
+    <MESSAGE value="update session-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="update session-4" />
   </component>
 </project>
