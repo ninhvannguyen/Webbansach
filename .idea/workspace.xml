@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce8ea412-8b15-4366-b760-369eed15d245" name="Changes" comment="update session-4">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_7_3_2023_12_06_PM_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_7_3_2023_12_06_PM_[Changes]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_7_3_2023_12_06_PM__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/bt/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/bt/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/bt/Circle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
