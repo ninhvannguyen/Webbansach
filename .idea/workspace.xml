@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce8ea412-8b15-4366-b760-369eed15d245" name="Changes" comment="update session-4">
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/polymorphics/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/polymorphics/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/polymorphics/Parents.java" afterDir="false" />
+    <list default="true" id="ce8ea412-8b15-4366-b760-369eed15d245" name="Changes" comment="update session-6">
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/demo_inner_class/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/demo_inner_class/MethodLocalInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/demo_inner_class/OnClickLister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/demo_inner_class/RegularOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/demo_inner_class/StaticOuter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +21,9 @@
         <option value="package-info" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="Interface" />
+        <option value="JavaScript File" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -49,23 +53,10 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.JavaScript&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Child">
-    <configuration name="BT1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.niit.java23.BT1" />
-      <module name="Webbansach" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.niit.java23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BT2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.niit.java23.BT2" />
       <module name="Webbansach" />
@@ -118,13 +109,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/com/niit/java23/javascript/index.js" working-dir="$PROJECT_DIR$/src/com/niit/java23/javascript">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Child" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Application.Child" />
         <item itemvalue="Application.BT4" />
         <item itemvalue="Application.BT2" />
-        <item itemvalue="Application.BT1" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +172,18 @@
       <workItem from="1684065547163" duration="1175000" />
       <workItem from="1688563249427" duration="4030000" />
       <workItem from="1688632005729" duration="59000" />
-      <workItem from="1688636173104" duration="4272000" />
+      <workItem from="1688636173104" duration="5536000" />
+      <workItem from="1688816477540" duration="653000" />
+      <workItem from="1689163058160" duration="974000" />
+      <workItem from="1689165088366" duration="288000" />
+      <workItem from="1689244898506" duration="1512000" />
+      <workItem from="1689528674381" duration="600000" />
+      <workItem from="1690186757082" duration="548000" />
+      <workItem from="1691497489708" duration="2185000" />
+      <workItem from="1691506991220" duration="601000" />
+      <workItem from="1691637470678" duration="658000" />
+      <workItem from="1691663956547" duration="597000" />
+      <workItem from="1691754502686" duration="3981000" />
     </task>
     <task id="LOCAL-00001" summary="demostring">
       <created>1682936534718</created>
@@ -218,6 +223,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="demostring" />
-    <option name="LAST_COMMIT_MESSAGE" value="demostring" />
+    <MESSAGE value="update session-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="update session-6" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
