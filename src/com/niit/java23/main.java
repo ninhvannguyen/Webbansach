@@ -21,6 +21,8 @@ public class main {
             System.out.println("ban da truy cap qua gioi han phan tu trong mang");
         }catch (Exception e) {
             System.out.println("loi gi do ko xac dinh");
+        }finally {
+            System.out.println("chay vao day");
         }
 
         System.out.println("hello");
