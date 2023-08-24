@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce8ea412-8b15-4366-b760-369eed15d245" name="Changes" comment="update session-6">
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/DemoFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/DemoReadObjectFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/DemoWriteObjectToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/DemoDownloadImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +51,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DemoReadObjectFromFile">
-    <configuration name="DemoFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.niit.java23.DemoFile" />
+  <component name="RunManager" selected="Application.DemoDownloadImage">
+    <configuration name="DemoDownloadImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.java23.DemoDownloadImage" />
       <module name="Webbansach" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoFileOutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.niit.java23.DemoFileOutputStream" />
+    <configuration name="DemoFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.java23.DemoFile" />
       <module name="Webbansach" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoDownloadImage" />
         <item itemvalue="Application.DemoReadObjectFromFile" />
         <item itemvalue="Application.DemoWriteObjectToFile" />
         <item itemvalue="Application.DemoFile" />
         <item itemvalue="Application.DemoFileWriter" />
-        <item itemvalue="Application.DemoFileOutputStream" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +202,7 @@
       <workItem from="1692792129024" duration="1010000" />
       <workItem from="1692844229999" duration="5000" />
       <workItem from="1692846197384" duration="4852000" />
-      <workItem from="1692866872241" duration="4856000" />
+      <workItem from="1692866872241" duration="6850000" />
     </task>
     <task id="LOCAL-00001" summary="demostring">
       <created>1682936534718</created>
