@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce8ea412-8b15-4366-b760-369eed15d245" name="Changes" comment="update session-6">
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/DemoDownloadImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/ChildGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/DemoArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/DemoHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/DemoSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/DemoWildcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/Domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/Domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/GenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/ICRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/ParentGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/ProductCrud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/UserCrud.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/DemoDownloadImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/DemoFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/DemoFileOutputStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/DemoFileWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/DemoReadObjectFromFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/DemoWriteObjectToFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/DemofileInputstream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/DemofileReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/niit/java23/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/niit/java23/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +54,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2O0AxxDvCiktiowOXRjLzUojnYs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,13 +75,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DemoDownloadImage">
+  <component name="RunManager" selected="Application.DemoSet">
     <configuration name="DemoDownloadImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.niit.java23.DemoDownloadImage" />
       <module name="Webbansach" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.niit.java23.*" />
+          <option name="PATTERN" value="com.niit.java23.Domain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.niit.java23.DemoFile" />
+    <configuration name="DemoHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.java23.DemoHashMap" />
       <module name="Webbansach" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoFileWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.niit.java23.DemoFileWriter" />
+    <configuration name="DemoSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.java23.DemoSet" />
       <module name="Webbansach" />
       <extension name="coverage">
         <pattern>
@@ -91,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoReadObjectFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.niit.java23.DemoReadObjectFromFile" />
+    <configuration name="GenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.java23.GenericClass" />
       <module name="Webbansach" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.niit.java23.*" />
+          <option name="PATTERN" value="com.niit.java23.Domain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoWriteObjectToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.niit.java23.DemoWriteObjectToFile" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.java23.main" />
       <module name="Webbansach" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.niit.java23.*" />
+          <option name="PATTERN" value="com.niit.java23.Domain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoSet" />
+        <item itemvalue="Application.DemoHashMap" />
+        <item itemvalue="Application.GenericClass" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.DemoDownloadImage" />
-        <item itemvalue="Application.DemoReadObjectFromFile" />
-        <item itemvalue="Application.DemoWriteObjectToFile" />
-        <item itemvalue="Application.DemoFile" />
-        <item itemvalue="Application.DemoFileWriter" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +226,19 @@
       <workItem from="1692792129024" duration="1010000" />
       <workItem from="1692844229999" duration="5000" />
       <workItem from="1692846197384" duration="4852000" />
-      <workItem from="1692866872241" duration="6850000" />
+      <workItem from="1692866872241" duration="7314000" />
+      <workItem from="1692948922788" duration="755000" />
+      <workItem from="1692949919912" duration="4915000" />
+      <workItem from="1692962586952" duration="598000" />
+      <workItem from="1693046084189" duration="1914000" />
+      <workItem from="1693219786513" duration="598000" />
+      <workItem from="1693304877656" duration="1350000" />
+      <workItem from="1693366655365" duration="659000" />
+      <workItem from="1693653397779" duration="695000" />
+      <workItem from="1693819053572" duration="602000" />
+      <workItem from="1693909273862" duration="604000" />
+      <workItem from="1693990764513" duration="654000" />
+      <workItem from="1698309317290" duration="4914000" />
     </task>
     <task id="LOCAL-00001" summary="demostring">
       <created>1682936534718</created>
