@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce8ea412-8b15-4366-b760-369eed15d245" name="Changes" comment="update session-6">
-      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/DemoDownloadImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/ex2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/ex2/EmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/niit/java23/ex2/MainExecution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="session-5" />
+        <entry key="$PROJECT_DIR$" value="session9" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,35 +54,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DemoDownloadImage">
+  <component name="RunManager" selected="Application.MainExecution">
     <configuration name="DemoDownloadImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.niit.java23.DemoDownloadImage" />
-      <module name="Webbansach" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.niit.java23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.niit.java23.DemoFile" />
-      <module name="Webbansach" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.niit.java23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoFileWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.niit.java23.DemoFileWriter" />
       <module name="Webbansach" />
       <extension name="coverage">
         <pattern>
@@ -117,13 +94,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.java23.Exercise1" />
+      <module name="Webbansach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niit.java23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainExecution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.java23.ex2.MainExecution" />
+      <module name="Webbansach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niit.java23.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainExecution" />
+        <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.DemoDownloadImage" />
         <item itemvalue="Application.DemoReadObjectFromFile" />
         <item itemvalue="Application.DemoWriteObjectToFile" />
-        <item itemvalue="Application.DemoFile" />
-        <item itemvalue="Application.DemoFileWriter" />
       </list>
     </recent_temporary>
   </component>
